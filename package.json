@@ -1,0 +1,6 @@
+{
+  "name": "darc-cm-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "test": "node -e \"console.log('ok')\"" }
+}
